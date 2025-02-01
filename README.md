@@ -1,4 +1,7 @@
 # Compiler-Design-Project
+## Testing
+This project is tested with BrowserStack.
+
 
 ### PROBLEM STATEMENT 
 In our CD project we are designing a Lexer and SLR Compiler for hypothetical language for the following question.  
